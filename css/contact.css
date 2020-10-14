@@ -1,0 +1,46 @@
+body {
+    background-color: #E3E2DF;
+    font-family: 'Raleway', sans-serif;
+}
+
+.navbar {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+#navbarNav {
+    font-size: 1.5rem;
+    font-weight: 350;
+}
+
+#navbarNav .nav-link {
+    color: #5D001E;
+}
+
+#navbarNav .nav-link:hover {
+    color: #9A1750;
+}
+
+.navbar-brand {
+    font-size: 1.5rem;
+    font-weight: 100;
+}
+
+hr {
+    background-color: white;
+}
+
+.contact-form {
+    background-color: rgba(0, 0, 0, .6);
+    color: white;
+    padding: 20px;
+}
+
+.status {
+    text-align: center;
+}
+
+#footer {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}

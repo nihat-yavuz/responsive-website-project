@@ -1,0 +1,49 @@
+body {
+    background-color: #E3E2DF;
+    font-family: 'Raleway', sans-serif;
+}
+
+.navbar {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+#navbarNav {
+    font-size: 1.5rem;
+    font-weight: 350;
+}
+
+#navbarNav .nav-link {
+    color: #5D001E;
+}
+
+#navbarNav .nav-link:hover {
+    color: #9A1750;
+}
+
+.navbar-brand {
+    font-size: 1.5rem;
+    font-weight: 100;
+}
+
+.img-thumbnail img {
+    height: 100%;
+    width: 100%;
+}
+
+.img-fluid {
+    margin-bottom: 7%;
+}
+
+#footer {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.jumbotron h1 {
+    color: #5D001E;
+}
+
+.jumbotron p {
+    color: #5D001E;
+}
